@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
 *main - Entry point
-*Description:print whether number in the variable n is positive or negative.
+*Description:'Print whether number in the variable n is positive or negative.'
 *
 *Always success
 */
