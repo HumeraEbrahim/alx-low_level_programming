@@ -7,20 +7,14 @@
 int main(void)
 
 {
-char alphabet;
-
-for (alphabet + 'a'; alphabet <= 'z'; alphabet++)
+char ch;
+for (ch = 'a'; ch <= 'z'; ch++)
 {
-	if(alphabet == 'q')
-		continue;
-
-	else if (alphabet == 'e')
-		continue;
-
-	putchar (alphabet);
+if (ch != 'e' && ch != 'q')
+{
+	putchar(ch);
 }
-
+}
 putchar ('\n');
-
 return (0);
 }
