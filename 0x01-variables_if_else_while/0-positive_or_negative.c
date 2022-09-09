@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - Entry point
-*Description:'Print whether number in the variable n is positive or negative.'
+*main - Print if the number is positive, zero, or negative
+*Description:using the main function
 *
 *Always success
 */
