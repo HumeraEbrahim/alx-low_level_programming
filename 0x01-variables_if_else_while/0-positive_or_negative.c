@@ -6,8 +6,9 @@
 *
 *Description:using the main function
 *this program prints 'Programming is positive, zero, or negative
-*Always success
+*Always 0 (Success/correct)
 */
+
 int main(void)
 {
 
