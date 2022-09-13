@@ -1,5 +1,4 @@
 #include <main.h>
-int _putchar(char);
 
 /**
 *main - main block
@@ -8,6 +7,7 @@ int _putchar(char);
 */
 int main(void)
 {
+
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -18,5 +18,10 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 
-		return (0);
+int _putchar(char);
+
+		return (0)
 }
+
+
+
