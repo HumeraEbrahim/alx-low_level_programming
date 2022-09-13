@@ -2,7 +2,7 @@
 
 /**
 *main - entry point
-*Description: A function that print the alphabet, in lowercase.
+*Description: A function that prints the alphabet, in lowercase
 **/
 void print_alphabet(void)
 {
