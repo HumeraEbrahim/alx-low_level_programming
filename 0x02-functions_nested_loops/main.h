@@ -1,13 +1,13 @@
-#include "main.h"
+#include <main.h>
+int _putchar(char);
 
 /**
-*main - entry point
+*main - main block
 *Description: A program that prints _putchar
-*Return 0 Success
+*Return: 0 Success
 */
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -19,4 +19,4 @@ int main(void)
 	_putchar('\n');
 
 		return (0);
-	}
+}
