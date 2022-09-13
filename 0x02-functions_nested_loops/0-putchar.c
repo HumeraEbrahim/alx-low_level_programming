@@ -1,6 +1,7 @@
 #include <main.h>
+#include <0-putchar.c>
 /**
-*main-main block
+*main - main entry point
 *Description: A program that print _putchar
 *Return: 0 Success
 */
