@@ -1,1 +1,1 @@
-Task Size is not grandeur, and territory does not make a nation
+1. Like, comment, subscribe
