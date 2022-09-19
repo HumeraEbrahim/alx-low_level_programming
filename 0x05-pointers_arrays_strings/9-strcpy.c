@@ -2,9 +2,8 @@
 
 /**
 *_strcpy - Copy paste string
-*Description: Write a function that copies the string pointed to by src
 *@dest: destination
-*@scr: source
+*@src: source
 *
 *Return: destination
 */
