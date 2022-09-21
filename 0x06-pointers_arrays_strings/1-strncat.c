@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
 *_strncat - concatenate two strings but add inputed number of bytes
 *@dest: string to be appended upon
 *@src: string to be completed at end of dest
