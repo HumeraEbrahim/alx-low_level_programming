@@ -2,9 +2,9 @@
 
 /**
 *_memcpy - copies a memory area
-*dest: memory area to be copied to
+*@dest: memory area to be copied to
 *@src: memory area to be copied from
-@n: number of bytes o be copied
+*@n: number of bytes o be copied
 *
 *Return: pointr to the copied memory block
 */
