@@ -1,8 +1,8 @@
-#include " main.h"
+#include "main.h"
 
 /**
 *_strstr - Entry point
-*@haytack: input
+*@haystack: input
 *@needle: input
 *Return: Always 0
 */
@@ -21,7 +21,7 @@ char *_strstr(char *haystack, char *needle)
 		}
 
 		if (*two == '\0')
-			return (haytack);
+			return (haystack);
 	}
 
 	return (0);
