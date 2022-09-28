@@ -1,1 +1,1 @@
-Write a function that prints a string in reverse.
+Write a function that returns the factorial of a given number.
