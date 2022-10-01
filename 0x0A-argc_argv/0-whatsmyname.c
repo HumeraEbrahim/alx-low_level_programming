@@ -3,11 +3,12 @@
 
 /**
 *main - print the program name
-*@argc: the number of arguments
+*@argc: Count arguments
 *@argv: Arguments
 *
-*Return: Always 0 (Succes)
+*Return: Always 0 (Success)
 */
+
 int main(int argc, char *argv[])
 {
 (void) argc;
