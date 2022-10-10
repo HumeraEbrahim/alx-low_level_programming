@@ -1,2 +1,1 @@
-A dog will teach you unconditional love. If you can have that in your life, things wont be too bad > README.md
-echo A dog will teach you unconditional love. If you can have that in your life, things wont be too bad
+ Outside of a dog, a book is a mans best friend. Inside of a dog its too dark to read
