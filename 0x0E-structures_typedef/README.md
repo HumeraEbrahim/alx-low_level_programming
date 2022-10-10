@@ -1,1 +1,2 @@
-Write a function that initialize a variable of type struct dog
+A dog will teach you unconditional love. If you can have that in your life, things wont be too bad > README.md
+echo A dog will teach you unconditional love. If you can have that in your life, things wont be too bad
