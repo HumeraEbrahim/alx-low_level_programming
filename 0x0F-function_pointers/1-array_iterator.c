@@ -4,7 +4,7 @@
 /**
 *array_literator - executes a function given as a parameter
 *on each element of an array
-*@array: array to lierate over
+*@array: array to iterate over
 *@size: of the array
 *@action: pointer to function used
 */
