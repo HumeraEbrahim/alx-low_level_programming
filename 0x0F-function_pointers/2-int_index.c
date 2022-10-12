@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "function_pointers.h"
 
 /**
@@ -8,7 +7,7 @@
 *@cmp: pointer to the comparing function
 *
 *Return: index of the first element.
-*-1 if no element is found or size <= 0.
+*-1 if no element is found or size <= 0
 */
 int int_index(int *array, int size, int (*cmp)(int))
 {
