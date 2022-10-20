@@ -1,11 +1,10 @@
 extern printf
 
 section .text
-	global main
+   global main
 
 main:
    push rbp
-
 
    move rdi,fmt
    move rsi,msg
