@@ -1,1 +1,1 @@
-Write a function that frees a list_t list.
+5. The Hare and the Tortoise
