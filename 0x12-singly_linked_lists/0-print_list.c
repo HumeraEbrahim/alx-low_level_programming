@@ -3,8 +3,7 @@
 
 /**
 *print_list - Prints all the elements of a list_t list.
-*@h: The list_t list.
-*
+*@h: singly linked list.
 *Return: The number of elements in the list.
 */
 
