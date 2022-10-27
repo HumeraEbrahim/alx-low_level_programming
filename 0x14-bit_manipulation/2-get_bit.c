@@ -5,7 +5,7 @@
 *@n: The bit.
 *@index: The index to get the value at - indeices start at 0.
 *
-*Return: Of an error occurs - -1.
+*Return: Idf an error occurs - -1.
 *	Otherwise - The value of bit at index.
 */
 
