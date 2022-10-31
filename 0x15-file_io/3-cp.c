@@ -5,7 +5,7 @@
 /**
 *error_file - checks if files can be opened.
 *@file_from: file_from.
-*@file_to: file_to
+*@file_to: file_to.
 *@argv: arguments vector.
 *Return: no return.
 */
@@ -18,7 +18,7 @@ void error_file(int file_from, int file_to, char *argv[])
 	}
 	if (file_to == -1)
 	{
-		dprintf(STDERR_FILENO, "Error: can't wrie to %sn", argv[2]);
+		dprintf(STDERR_FILENO, "Error: can't write to %sn", argv[2]);
 		exit(99);
 	}
 }
@@ -62,5 +62,10 @@ int main(int argc, char *argv[])
 		dprintf(STDERR_FILENO, "Error: can't close fd %d\n", file_from);
 		exit(100);
 	}
+
+	err_close = cloe(file_to);
+	if (err_close == -1)
+	{
+		dprintf(STDERR_FILENO, "Error: can't close fd %d\n", file_from);	}
 	return (0);
 }
