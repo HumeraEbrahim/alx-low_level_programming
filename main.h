@@ -2,10 +2,13 @@
 #define MAIN_H
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <limits.h>
 
-void postitive_or_negative(int i);
-int largest_number(int, int, int);
-void print_remaining_days(int, int, int);
-int convert_day(int, int);
-
-#endif /* MAIN_H */
+int _putchar(chr c);
+void *malloc_checked(unsigned int b);
+char *string_nconcat(char *s1, char *s2, unsigned int n);
+void *_calloc(unsigned int nmemb, unsigned int size);
+int *array_range(int min, int max);
+void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
+#endif
